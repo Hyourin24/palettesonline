@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsTheme" value="name:ID;datatype:int,name:theme;datatype:string" />
+	<infoitem key="UD_rsStardard" value="name:ID;datatype:int,name:reference;datatype:string,name:standard;datatype:string,name:typeID;datatype:string,name:etat;datatype:string,name:chois;datatype:string,name:coin coupe;datatype:string,name:chanfrene;datatype:string,name:decalais;datatype:string,name:ISSPM15;datatype:string,name:planches;datatype:int,name:dessush1;datatype:int,name:dessusb1;datatype:int,name:dessusl1;datatype:int,name:quantite1;datatype:int,name:volume1;datatype:int,name:dessush5;datatype:int,name:dessusb5;datatype:int,name:dessusl5;datatype:int,name:quantite5;datatype:int,name:volume5;datatype:int,name:travercesh2;datatype:int,name:travercesb2;datatype:int,name:travercesl2;datatype:int,name:quantite2;datatype:int,name:volume2;datatype:int,name:travercesh6;datatype:int,name:travercesb6;datatype:int,name:travercesl6;datatype:int,name:quantite6;datatype:int,name:volume6;datatype:int,name:plotsh3;datatype:int,name:plotsb3;datatype:int,name:plotsl3;datatype:int,name:quantite3;datatype:int,name:volume3;datatype:int,name:plotsh7;datatype:int,name:plotsb7;datatype:int,name:plotsl7;datatype:int,name:quantite7;datatype:int,name:volume7;datatype:int,name:dessoush4;datatype:int,name:dessousb4;datatype:int,name:dessousl4;datatype:int,name:quantite4;datatype:int,name:volume4;datatype:int,name:dessoush8;datatype:int,name:dessousb8;datatype:int,name:dessusl8;datatype:int,name:quantite8;datatype:int,name:volume8;datatype:int,name:VOLUME;datatype:int,name:piecem3bois;datatype:int,name:dessin;datatype:string,name:photo;datatype:string" />
+	<infoitem key="UD_rsStandard" value="name:standard;datatype:string" />
+	<infoitem key="UD_rsCatalogue" value="name:Type;datatype:string,name:reference;datatype:string,name:standard;datatype:string,name:etat;datatype:string,name:planches;datatype:int,name:dessush1;datatype:int,name:dessusl1;datatype:int,name:travercesl2;datatype:int" />
+	<infoitem key="UD_VARreference" value="name:reference;datatype:string" />
+	<infoitem key="UD_VARstandard" value="name:standard;datatype:string" />
+	<infoitem key="UD_rsReference" value="name:reference;datatype:string" />
+	<infoitem key="UD_rsRreference" value="name:reference;datatype:string" />
+	<infoitem key="UD_rsType" value="name:ID;datatype:int,name:Type;datatype:string" />
+</info>

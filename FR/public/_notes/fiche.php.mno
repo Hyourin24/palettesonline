@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_LiveData_params" value="5" />
+	<infoitem key="UD_LiveData_param0" value="" />
+	<infoitem key="UD_LiveData_param1" value="1" />
+	<infoitem key="UD_LiveData_param2" value="2" />
+	<infoitem key="UD_LiveData_param3" value="referances=2" />
+	<infoitem key="UD_LiveData_param4" value="referances=AUTOJMD2" />
+	<infoitem key="UD_rsFiche" value="name:reference;datatype:string,name:titre;datatype:string,name:auteur;datatype:string,name:description;datatype:blob,name:prix;datatype:real,name:theme;datatype:string,name:photo;datatype:string" />
+</info>
