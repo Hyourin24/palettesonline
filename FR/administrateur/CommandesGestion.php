@@ -63,6 +63,7 @@
     <td width="100%" height="52"><!-- InstanceBeginEditable name="espace poublique" -->&nbsp;
       <div align="center">
         <p class="Style11"><font face="Arial, Helvetica, sans-serif">GESTION DES COMMANDES</font></p>
+        <p>- L'administrateurpeut voir les différentes commandes et demandes des clients, et la gestion de celles-ci par les fournisseurs.</p>
         <p class="Style11">&nbsp;</p>
       </div>
     <!-- InstanceEndEditable --></td>

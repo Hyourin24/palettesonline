@@ -56,6 +56,8 @@
     <td width="100%" height="52"><!-- InstanceBeginEditable name="espace poublique" -->&nbsp;
       <div align="center">
         <p>COMMANDE</p>
+        <p>- Le transporteur peut voir les commandes disponnibles pour sa région. Il peut les accepter ou les refuser.</p>
+        <p>- Le transporter peut contacter le client ou le fournisseur.</p>
         <p>&nbsp;</p>
       </div>
     <!-- InstanceEndEditable --></td>

@@ -63,6 +63,7 @@
     <td width="100%" height="52"><!-- InstanceBeginEditable name="espace poublique" -->&nbsp;
       <div align="center" class="Style11">
         <p><font face="Arial, Helvetica, sans-serif">GESTION DES CLIENTS</font></p>
+        <p>- L'administrateur peut suspendre un compte, ou en avertir un avec un mail</p>
         <p>&nbsp;</p>
       </div>
     <!-- InstanceEndEditable --></td>
